@@ -4,6 +4,8 @@ require('dotenv').config({
   path: `.env.${process.env.NODE_ENV}`,
 });
 
+// eslint-disable-next-line no-console
+console.log(process.env.GATSBY_PORTFOLIO_GITHUB_TOKEN);
 module.exports = {
   siteMetadata: {
     title: config.defaultTitle,
