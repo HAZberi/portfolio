@@ -16,14 +16,11 @@ export const Skills = () => {
         </Thumbnail>
         <Details theme={theme}>
           <h1>More about me</h1>
-          <p>
-            Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the
-            industry’s standard dummy.
-          </p>
+          <p>I build high performance, scalable and</p>
           <Button as={AnchorLink} href="#contact">
             Hire me
           </Button>
-        </Details>
+      </Details>
       </SkillsWrapper>
     </Wrapper>
   );
