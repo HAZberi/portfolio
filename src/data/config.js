@@ -1,10 +1,10 @@
 module.exports = {
-  defaultTitle: 'John Doe',
+  defaultTitle: 'Hassaan Zuberi',
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
-  author: 'John Doe',
+  author: 'Hassaan Zuberi',
   url: 'https://portfolio.smakosh.com',
-  legalName: 'John Doe',
-  defaultDescription: 'I’m John and I’m a Backend & Devops engineer!',
+  legalName: 'Hassaan Zuberi',
+  defaultDescription: 'I’m Hassaan and I’m a Front-end web engineer!',
   socialLinks: {
     twitter: 'http://www.twitter.com/smakosh',
     github: 'https://github.com/smakosh',
@@ -21,14 +21,14 @@ module.exports = {
     twitter: '@smakosh',
   },
   address: {
-    city: 'City',
-    region: 'Region',
-    country: 'Country',
+    city: 'Calgary',
+    region: 'Alberta',
+    country: 'Canada',
     zipCode: 'ZipCode',
   },
   contact: {
-    email: 'email',
-    phone: 'phone number',
+    email: 'mhazuberi@gmail.com',
+    phone: '(587)-429-1176',
   },
   foundingDate: '2018',
 };
